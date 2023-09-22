@@ -1,5 +1,6 @@
 
 # Gnocchi with Rosted Tomato Sauce
+### Yield: 2 large servings
 ## Ingredients
 - 3 medium heirloom tomatoes, sliced in half and cored
 - 1/2 red onion, cut until 1/2" thick rounds or wedges
@@ -22,7 +23,8 @@
 8. Add tomatoes to the pan, then mash. Add the garlic, and mix well.
 9. Once the sauce has reduced, remove from heat. Add gnocchi, and onion and mix well. Add the gouda to the top.
 10. Broil until cheese is melted and brown. 
-11. Add basil immediately, then serve from pan
+11. Add basil immediately, then serve from pan. Can add parmesan.
+
 ## Storage
 
 ### Notes
