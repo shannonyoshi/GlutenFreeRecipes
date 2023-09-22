@@ -13,7 +13,6 @@
 - 2 tsp. vanilla extract
 - 6 oz. (170 g) bittersweet chocolate (60%–70% cacao), coarsely chopped, or semisweet chocolate chips
 
-
 ## Directions
 1. In a small bowl, whisk dry ingredients (flour, kosher salt, baking soda)
 2. In a small heavy bottom pot over medium heat, cook butter, sstirring frequently, until milk solids are lightly browned. (The butter solids will get a little more brown fron residual heat in the pan, so light browning is to prevent burning/over cooking)
@@ -30,7 +29,6 @@
     2. Remove dough from cookie sheet, and place dough disks into a freezer bag.
     3. Sprinkle with Maldon salt, then bake from frozen in 350 oven for ~10 minutes.
 
-
 ### Notes
 - Based on Bon Appetit's "Best Chocolate Chip Cookies" by Chris Morocco
 
@@ -40,7 +38,6 @@
 - Initial Thoughts: Dough is grainy, flour doesn’t taste great (it’s old)
 - Fresh out of the oven: salt became difficult to see; taste is good, outside is a bit chewy, cookies turned out quite flat. Next time don’t flatten cookie dough for cookies not going into the freezer
 - Next Day: After sitting for a day, cookies became more chewy overall.
-
 **Possible Adjustments**
 - [x] indicated changes has been made in recipe
 - [ ] Add Maldon Salt half way through baking time at the same time as rotating pan.
